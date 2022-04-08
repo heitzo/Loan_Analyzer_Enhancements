@@ -1,0 +1,694 @@
+   50  pwd
+   51  cd /Users/oliviaheitz
+   52  cd destop
+   53  cd fintech-workspace
+   54  pwd
+   55  cd Desktop\t
+   56  ls
+   57  Fintech-workspace
+   58  cd Fintech-workspace
+   59  cd python_projectls
+   60  ls
+   61  cd Python_Project
+   62  conda activate dev
+   63  python --version
+   64  code .
+   65  python hello_python.py
+   66  conda deactviate
+   67  conda deactivate
+   68  conda activate dev
+   69  code .
+   70  company_abc_stock_price = 14.35
+   71  print
+   72  print(company_abc_stock_price)
+   73  python.M1L3.py
+   74  cd Desktop
+   75  conda deactivate
+   76  pwd
+   77  cd Desktop
+   78  cd desktop
+   79  cd /Users/oliviaheitz/desktop
+   80  ls
+   81  Fintech-workspace
+   82  cd Fintech-workspace
+   83  ls
+   84  cd Python_project
+   85  conda activate dev
+   86  M1L3.py
+   87  python M1L3.py
+   88  python python.M1L3.py
+   89  python olivia_project.py
+   90  python olivia_project.py
+   91  python Olivia_project.py
+   92  python Olivia_project.py\n
+   93  current_price = 14.35\nadjusted_price = current_price - 1.25\nprint(f"The current price is: {current_price}, and the adjusted price i\n\n\nconda deactivate\n\n\nexit\nconda deactivate\nconda activate dev
+   94  python olivia_project2.py
+   95  python olivia_practice_project3.py
+   96  python olivia_practice_project3.py
+   97  python olivia_practice_project3.py
+   98  python olivia_practice_project3.py
+   99  python olivia_practice_project3.py 
+  100  olivia_practice_project3.py
+  101  python olivia_practice_project3.py
+  102  python olivia_practice_project3.py
+  103  python olivia_practice_project3.py
+  104  python olivia_practice_project3.py
+  105  python olivia_practice_project3.py
+  106  python olivia_practice_project3.py
+  107  conda deactivate
+  108  cd desktop
+  109  cd user/olivia
+  110  ls
+  111  cd Olivias-Air-2User/
+  112  cd Olivia
+  113  conda activate deve
+  114  conda activate dev
+  115  ls
+  116  conda activate dev
+  117  conda deactivate
+  118  python variables.py
+  119  conda activate dev
+  120  python variables.py
+  121   /usr/bin/env /usr/local/bin/python3 /Users/oliviaheitz/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 63716 -- /Users/oliviaheitz/Downloads/Starter_Code/loan_analyzer.py 
+  122  jupyter lab
+  123  conda activate dev
+  124  thisset = {"apple", "banana", "cherry", "apple"}
+  125  thisset = {"apple", "banana", "cherry"}
+  126  conda deactivate
+  127  conda activate dev
+  128  best_movie_stars = ["Nicolas Cage", "Betty White", "Dwayne The Rock Johnson"]\nprint(best_movie_stars\n)
+  129  cd Fintech Bootcamp
+  130  pwd
+  131  ls
+  132  cd Documents
+  133  cd Fintech bootcamp
+  134  Fintechls
+  135  ls
+  136  Fintech Bootcamp
+  137  cd Fintech Bootcamp
+  138  ls
+  139  cd Fintech_Bootcamp
+  140  cd practice
+  141  python module 1, lesson 3 practice lists.py
+  142  cd oliviabheitz
+  143  cd oliviaheitz
+  144  cd /Users/oliviaheitz
+  145  ls
+  146  python lesson 3 practice.py
+  147  python lesson 3 practice.py
+  148  ls
+  149  python lesson3.py
+  150  python lesson3.py
+  151  python lesson3.py
+  152  python lesson3.py
+  153  python lesson3.py
+  154  python lesson3.py
+  155  python lesson3.py
+  156  python lesson3.py
+  157  python lesson3.py
+  158  python lesson3.py
+  159  python lesson3.py
+  160  python lesson3.py
+  161  print(best_movie_stars[0:2])
+  162  python lesson3.py
+  163  python closing_prices.py
+  164  ls
+  165  python closing_prices.py
+  166  python closing_prices.py
+  167  python closing_prices.py
+  168  python closing_prices.py
+  169  python closing_prices.py
+  170  python closing_prices.py
+  171  python closing_prices.py
+  172  python closing_prices.py
+  173  cd documents
+  174  ls
+  175  cd 02_Listing_Assets
+  176  python listing_assets.py
+  177  ls
+  178  cd Unsolved
+  179  ls
+  180  python listing_assets.py
+  181  python listing_assets.py
+  182  python listing_assets.py  
+  183  python listing_assets.py  
+  184  python listing_assets.py  
+  185  ls
+  186  cd downloads
+  187  cd exit
+  188  cd Desktop
+  189  pwd
+  190  cd /Users/oliviaheitz
+  191  ls
+  192  Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  193  cd Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py\n
+  194  Downloads/03_The_401k_Shuffle/Unsolved
+  195  cd Downloads/03_The_401k_Shuffle/Unsolved
+  196  ls
+  197  python the_401k_shuffle.py
+  198  python the_401k_shuffle.py
+  199  python the_401k_shuffle.py
+  200  python the_401k_shuffle.py
+  201  cd /Users/oliviaheitz
+  202  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_The_401k_Shuffle/Unsolved/conditionals.py
+  203  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_The_401k_Shuffle/Unsolved/conditionals.py
+  204  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_The_401k_Shuffle/Unsolved/conditionals.py
+  205  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_The_401k_Shuffle/Unsolved/conditionals.py
+  206  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_The_401k_Shuffle/Unsolved/conditionals.py
+  207  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_The_401k_Shuffle/Unsolved/conditionals.py
+  208  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_The_401k_Shuffle/Unsolved/conditionals.py
+  209  /usr/local/bin/python3 "/Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/Fintech Bootcamp/Week 1/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+  210  /usr/local/bin/python3 "/Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/Fintech Bootcamp/Week 1/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+  211  /usr/local/bin/python3 "/Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/Fintech Bootcamp/Week 1/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+  212  /usr/local/bin/python3 "/Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/Fintech Bootcamp/Week 1/02_Nested_Conditionals/Unsolved/nested_conditionals.py"
+  213  /usr/local/bin/python3 "/Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py"
+  214  /usr/local/bin/python3 "/Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py"
+  215  /usr/local/bin/python3 "/Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py"
+  216  /usr/local/bin/python3 "/Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py"
+  217  /usr/local/bin/python3 "/Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py"
+  218  conda activate dev
+  219  cd Downloads
+  220  ls
+  221  cd 03_The_401k_Shuffle
+  222  cd unsolved/conditionals.py
+  223  python conditionals.py
+  224  python conditonals.py
+  225  cd Unsolved
+  226  python conditionals.py
+  227  python conditionals.py
+  228  python conditionals.py
+  229  cd User/oliviaheitz
+  230  cd oliviaheitz
+  231  cd Documents
+  232  ls
+  233  cd Downloads
+  234  cd
+  235  cd-
+  236  cd /
+  237  cd ~
+  238  cd/root
+  239  cd /root
+  240  cd Documents/01_Conditional_Statement
+  241  cd unsolved
+  242  ls
+  243  python conditional_statement.py
+  244  python conditional_statement.py
+  245  python conditional_statement.py
+  246  python conditional_statement.py
+  247  python conditional_statement.py
+  248  python conditional_statement.py
+  249  python conditional_statement.py
+  250  cd
+  251  conda activate
+  252  conda activate dev
+  253  cd /Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/Fintech Bootcamp/Week 1/Activities/01_Stu_Variables/Unsolved/variables.py
+  254  cd
+  255  cd /Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/Fintech Bootcamp/Week 1/Activities/01_Stu_Variables/Unsolved/variables.py
+  256  python variables.py
+  257  conda activate dev
+  258  cd /Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/Fintech Bootcamp/Week 1/Activities/01_Stu_Variables/Unsolved/variables.py
+  259  cd /Users/oliviaheitz/Library/Mobile Documents/com~apple~CloudDocs/Fintech Bootcamp/Week 1/Activities/01_Stu_Variables/Solved/variables.py
+  260  conda activate dev
+  261  ls
+  262  python conditional_statements.py
+  263  python functions.py
+  264  ls
+  265  python functions.py
+  266  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  267  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  268  conda activate dev
+  269  conda activate dev
+  270  ls
+  271  ls
+  272  python split_second_part_2.py
+  273  python split_second_part_2.py
+  274  present_value = 10
+  275  conda activate dev
+  276  ls
+  277  python racking_up_the_profit.py
+  278  python racking_up_the_profit.py
+  279  python racking_up_the_profit.py
+  280  python racking_up_the_profit.py
+  281  python racking_up_the_profit.py
+  282  python racking_up_the_profit.py
+  283  amazon_data = table_data[2]\nprint(amazon_data)
+  284  python racking_up_the_profit.py
+  285  python racking_up_the_profit.py
+  286  python racking_up_the_profit.py
+  287  python racking_up_the_profit.py
+  288  python racking_up_the_profit.py
+  289  python racking_up_the_profit.py
+  290  python racking_up_the_profit.py
+  291  python racking_up_the_profit.py
+  292  python racking_up_the_profit.py
+  293  python racking_up_the_profit.py
+  294  python racking_up_the_profit.py
+  295  python racking_up_the_profit.py
+  296  python racking_up_the_profit.py
+  297  python racking_up_the_profit.py
+  298  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  299  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  300  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  301  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  302  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  303  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  304  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/Activities/vvv.py
+  305  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/Activities/vv.py
+  306  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/Activities/vv.py
+  307  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/Activities/vvv.py
+  308  /usr/local/bin/python3 /Users/oliviaheitz/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  309  conda activate dev
+  310  cd Downlaods
+  311  cd Downloads
+  312  ls
+  313  conda activate dev
+  314  ls
+  315  python pathways_to_success.py
+  316  conda activate dev
+  317  ls
+  318  python automated_equity_rounds.py
+  319  python automated_equity_rounds.py
+  320  python automated_equity_rounds.py
+  321  python automated_equity_rounds.py
+  322  ls
+  323  conda activate dev
+  324  python pathways_to_success.py
+  325  ls
+  326  ls
+  327  python pathlibpractice.py
+  328  python pathlibpractice.py
+  329   python pathlibpractice.py
+  330  python pathlibpractice.py
+  331  conda activate dev
+  332  ls
+  333  python practice.py
+  334  python practice.py
+  335  python practice.py
+  336  python practice.py
+  337   python practice.py\n
+  338  python practice.py
+  339  python practice.py
+  340   python practice.py
+  341  python practice.py\n
+  342  conda activate dev
+  343  ls
+  344  python pathways_to_success_part_2.py
+  345  python pathways_to_success_part_2.py
+  346  conda activate dev
+  347  ls
+  348  practice.py
+  349  python practice.py
+  350  python practice.py
+  351  cd
+  352  pip - V
+  353  pip -V
+  354  pip freeze
+  355  pip install fire
+  356  pip install questionary
+  357  conda activate dev
+  358  ls
+  359  cd unsolved
+  360  ls
+  361  python app.py\t
+  362  python app.py  
+  363  python app.py 
+  364  ls
+  365  python app.py
+  366  python app.py
+  367  python app.py
+  368  conda activate dev
+  369  ls
+  370  python app.py
+  371  python app.py
+  372  cd
+  373  git pull
+  374  git pull
+  375  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  376  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  377  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  378  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  379  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  380  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  381  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  382  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  383  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Modules/module 2/activities/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  384  /usr/local/bin/python3 Untitled-2
+  385  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  386  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  387  conda activate dev
+  388  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  389  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/practice.py"
+  390  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Modules/module 2/activities/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  391  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Modules/module 2/activities/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  392  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  393  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  394  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/loan_analyzer.py"
+  395  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Modules/module 2/activities/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  396  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Modules/module 2/activities/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  397  /usr/local/bin/python3 Untitled-3
+  398  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Modules/module 2/activities/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  399  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Modules/module 2/activities/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  400  /usr/local/bin/python3
+  401  conda activate dev
+  402  conda activate dev
+  403  ls
+  404  python conditional_statements.py
+  405  python conditional_statements.py
+  406  python conditional_statements.py
+  407  python conditional_statements.py
+  408  python conditional_statements.py
+  409  pwd
+  410  python conditional_statements.py
+  411  cd
+  412  clear
+  413  conda deactivate
+  414  conda activate dev
+  415  ls
+  416  cd unsolved
+  417  ls
+  418  dicts-02.py
+  419  python dicts-02.py
+  420  python dicts-02.py
+  421  python dicts-02.py
+  422  python dicts-02.py
+  423  python dicts-02.py
+  424  python dicts-02.py
+  425  python dicts-02.py
+  426  python dicts-02.py
+  427  python dicts-02.py
+  428  python dicts-02.py
+  429  python dicts-02.py
+  430  python dicts-02.py
+  431  python dicts-02.py
+  432  python dicts-02.py
+  433  python dicts-02.py
+  434  python dicts-02.py
+  435  python dicts-02.py
+  436  python dicts-02.py
+  437  clear
+  438  cd
+  439  conda activate dev
+  440  ../07_Stu_Functions/Unsolved/functions.py
+  441  /usr/local/bin/python3
+  442  conda activate deve
+  443  conda activate dev
+  444  ls
+  445  python dictionaries.py
+  446  conad activate dev
+  447  conda activate dev
+  448  ls
+  449  python loops.py
+  450  python loops.py
+  451  python loops.py
+  452  python loops.py
+  453  python loops.py
+  454  python loops.py
+  455  python loops.py
+  456  python loops.py
+  457  python loops.py
+  458  python loops.py
+  459  python loops.py
+  460  python loops.py
+  461  pwd
+  462  python loops.py
+  463  python loops.py
+  464  python loops.py
+  465  conda acitvate dev
+  466  conda activate dev
+  467  ls
+  468  python functions.py
+  469  python functions.py
+  470  conda activate dev
+  471  ls
+  472  python manipulating_lists.py
+  473  python manipulating_lists.py
+  474  python manipulating_lists.py
+  475  python manipulating_lists.py
+  476  python manipulating_lists.py
+  477  python manipulating_lists.py
+  478  python manipulating_lists.py
+  479  python manipulating_lists.py
+  480  python manipulating_lists.py
+  481  python manipulating_lists.py
+  482  python manipulating_lists.py
+  483  python manipulating_lists.py
+  484  conda activate dev
+  485  ls
+  486  python dictionaries.py
+  487  python dictionaries.py
+  488  conda activate dev
+  489  ls
+  490  python loops.py\n
+  491  python loops.py\n
+  492  conda activate dev
+  493  ls
+  494  python dicts-02.py
+  495  python dicts-02.py
+  496  python dicts-02.py
+  497  python dicts-02.py
+  498  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Class Activities/Class_1_Activities-4/04_Stu_Manipulating_Lists/Solved/manipulating_lists.py"
+  499  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Class Activities/Class_1_Activities-4/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py"
+  500  conda activate dev
+  501  pip install fire
+  502  import fire
+  503  pip install questionary
+  504  pip install questionary
+  505  cd
+  506  ls
+  507  cd Desktop\t
+  508  ls
+  509  cd Fintech-workspace
+  510  ls
+  511  python \timport fire.py
+  512  python import fire.py
+  513  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/import fire.py"
+  514  /usr/local/bin/python3
+  515  conda activate dev
+  516  ls
+  517  conda activate dev
+  518  ls
+  519  python part2.py
+  520  python part2.py
+  521  python part2.py
+  522  python part2.py
+  523  python part2.py
+  524  python part2.py
+  525  python part2.py
+  526  ls
+  527  ls
+  528  python part_3.py
+  529  python part_3.py
+  530  python part_3.py
+  531  python part_3.py
+  532  ls
+  533  part4.py
+  534  python part4.py
+  535  conda activate dev
+  536  ls
+  537  cd import_fire.py
+  538  python import_fire.py
+  539  conda activate dev
+  540  ls
+  541  python part_3.py
+  542  ls
+  543  conda activate deve
+  544  conda activate dev
+  545  ls
+  546  python atm.py
+  547  python atm.py
+  548  python atm.py
+  549  ls
+  550  conda activate dev
+  551  ls
+  552  part_3.py
+  553  python part_3.py
+  554  python part_3.py
+  555  python part_3.py
+  556  python part_3.py
+  557  python part_3.py
+  558  /usr/local/bin/python3 "/Users/oliviaheitz/Desktop/Fintech-workspace/Challenges/Challenge 1/Starter_Code/part2py"
+  559  conda activate dev
+  560  ls
+  561  python loan_analyzer_complete.py
+  562  conda activate dev
+  563  ls
+  564  python loan_analyzer_v5.py
+  565  conda activate dev
+  566  ls
+  567  python loan_analyzer_v5.py
+  568  conda activate dev
+  569  git config --global user.name olivia heitz
+  570  git config --global user.name olivia.heitz
+  571  xcode-select -p
+  572  sw_vers
+  573  softwareupdate -l
+  574  git --version
+  575  xcode-select --install
+  576  xcode-select --install
+  577  xcode-select -p && xcode-select -v
+  578  git --version
+  579  conda activate dev
+  580  ls
+  581  python \tapp.py\t
+  582  python \tapp.py\t
+  583  python \tapp.py\t
+  584  python \tapp.py\t
+  585  python \tapp.py\t
+  586  python \tapp.py\t
+  587  python \tapp.py\t
+  588  ls
+  589  python app.py
+  590  python app.py
+  591  python app.py
+  592  git push
+  593  gh auth login
+  594  gh
+  595  -p, --git-protocol <string>
+  596  git push
+  597  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
+  598  conda activate de
+  599  conda activate dev
+  600  git push
+  601  gh repo clone heitzo/Practice_Git
+  602  git clone https://github.com/heitzo/Practice_Git.git
+  603  git push
+  604  git remote -v
+  605  git clone git@github.com:heitzo/Practice_Git.git
+  606  git commit -m "edited folder name on desktop"
+  607  git push
+  608  git add
+  609  git add git@github.com:heitzo/Practice_Git.git
+  610  git add Practice_Git
+  611  git push
+  612  git add origin https://github.com/heitzo/Practice_Git.git
+  613  git add https://github.com/heitzo/Practice_Git.git
+  614  cd
+  615  ls -al ~/.ssh
+  616  pbcopy < ~/.ssh/id_rsa.pub
+  617  git clone https://github.com/heitzo/Push_Pull.git
+  618  cd desktop/fintech-workspace
+  619  ls
+  620  cd \tPush_Pull
+  621  ls
+  622  git status
+  623  git add README.md
+  624  git add README.md
+  625  git status
+  626  touch new_file.txt
+  627  git status
+  628  git add new_file.txt
+  629  git status
+  630  git commit -m "edited readme and text file"
+  631  git push
+  632  git clone git@github.com:heitzo/Push_Pull.git
+  633  git push
+  634  git status
+  635  git push
+  636  ls -al ~/.ssh
+  637  cat
+  638  cat ~/.ssh/id_rsa.pub
+  639  cd
+  640  cd desktop/fintech-workspace
+  641  ls
+  642  cd p
+  643  git push
+  644  git push
+  645  git push
+  646  git push
+  647  git remote
+  648  git remote -v
+  649  cd desktop 
+  650  cd
+  651  cd desktop
+  652  git clone git@github.com:heitzo/Push_Pull.git
+  653  git add README.md
+  654  cd Push_pull
+  655  git add README.md
+  656  git status
+  657  git commit -m "edited readme"
+  658  git status
+  659  git push
+  660  git remote -v
+  661  conda activate dev
+  662  git config --global user.name olivia heitz
+  663  git config --global user.email oliviabheitz@gmail.com
+  664  git config --list
+  665  ls
+  666  cd Desktop
+  667  ls
+  668  cd Fintech-workspace
+  669  git clone https://github.com/heitzo/Practice_Git.git
+  670  ls
+  671  cd Practice_Git\t
+  672  git status
+  673  git add README.md
+  674  git status
+  675  t9uch
+  676  touch
+  677  touch new_file.txt
+  678  ls
+  679  git status
+  680  git add new_file.txt
+  681  git status
+  682  git commit -m "edited readme and added new text file" 
+  683  git status
+  684  git push
+  685  git push
+  686  git push
+  687  gh repo clone heitzo/Push_Pull
+  688  conda activate dev
+  689  ls
+  690  python finally.py
+  691  python finally.py
+  692  python finally.py
+  693  no
+  694  no
+  695  python finally.py
+  696  python finally.py
+  697  python finally.py
+  698  python finally.py
+  699  python finally.py
+  700  python finally.py
+  701  jupyter lab
+  702  conda activate dev
+  703  jupyter lab
+  704  jupityer lab
+  705  jupyter lab
+  706  conda activate deve
+  707  conda activate dev
+  708  conda list pandas
+  709  conda list jupyter lab
+  710  conda list jupyterlab
+  711  /usr/local/bin/python3
+  712  conda activate dev
+  713  git clone git@github.com:heitzo/Loan_Analyzer_Enhancements.git
+  714  git status
+  715  cd Loan_Analyzer_Enhancements
+  716  git status
+  717  git commit -m "created save_csv function in fileio.py"
+  718  git add data
+  719  git add qualifiers
+  720  git add qualifier
+  721  git add app.py
+  722  git add README.md
+  723  git status
+  724  git push
+  725  git commit -m "Integrate your new save_csv function into the existing loan qualifier application."
+  726  git status
+  727  git add app.py
+  728  git status
+  729  git push
+  730  git add app.py
+  731  git commit -m "incorparated save_csv function into save qualifying loans function"
+  732  git push
+  733  git status
+  734  git add README.md
+  735  git commit -m "updated README file"
+  736  git push
+  737  python app.py
+  738  git status
+  739  git add app.py
+  740  git add qualifier
+  741  git status
+  742  git commit -m "updated instructions in code"
+  743  git push
