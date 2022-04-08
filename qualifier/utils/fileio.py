@@ -29,10 +29,15 @@ def load_csv(csvpath):
             data.append(row)
     return data
 
+# function that saves data to a csv file
 def save_csv(csvpath, data, header = None):
+    #open csv writer
     with open(csvpath, 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=",")
+        #if there is a header then the csvwriter will input as header
         if header:
             csvwriter.writerow(header)
+            # write data to csv file
         csvwriter.writerows(data)
+        #let the customer know the process is working
     print("Writing qualified loan data to csv file...")
