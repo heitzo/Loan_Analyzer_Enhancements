@@ -125,7 +125,7 @@ def save_qualifying_loans(qualifying_loans):
     # @TODO: Complete the usability dialog for savings the CSV Files.
     #user dialogue
     save_loan = questionary.confirm("Would you like to save the qualifying loans to file?").ask()
-    #oonditional statement: if loans are to be saves, idenitfy file output path
+    #conditional statement: if loans are to be saves, idenitfy file output path
     if save_loan:
         print("OK. Saving qualified loans to csv file.")
         csvpath = questionary.text("What is the output path of the qualified loans file").ask()
