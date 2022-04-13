@@ -1,0 +1,109 @@
+Last login: Tue Apr 12 18:33:43 on ttys008
+(base) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhacements % conda activate dev
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhacements % ls
+loan_qualifier_app
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhacements % cd loan_qualifier_app
+(dev) oliviaheitz@olivias-air-2 loan_qualifier_app % ls
+Loan_Analyzer_Additions		Loan_Analyzer_Enhancements
+Loan_Analyzer_Enhanced		README.md
+(dev) oliviaheitz@olivias-air-2 loan_qualifier_app % cd Loan_Analyzer_Enhancements
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % ls
+README.md		data			terminal_history.txt
+app.py			qualifier
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   app.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % git add app.py
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   app.py
+
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % python app.py
+? Enter a file path to a rate-sheet (.csv): daily_rate_sheet.csv
+Oops! Can't find this path: daily_rate_sheet.csv
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % python app.py
+? Enter a file path to a rate-sheet (.csv): ./data/dail_rate_sheet.csv
+Oops! Can't find this path: data/dail_rate_sheet.csv
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % python app.py
+? Enter a file path to a rate-sheet (.csv): ./data/daily_rate_sheet.csv
+? What's your credit score? 400
+? What's your current amount of monthly debt? 400
+? What's your total monthly income? 12000
+? What's your desired loan amount? 10000
+? What's your home value? 70000
+The monthly debt to income ratio is 0.03
+The loan to value ratio is 0.14.
+Found 0 qualifying loans
+No qualifying loans found.
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % python app.py
+? Enter a file path to a rate-sheet (.csv): ./data/daily_rate_sheet.csv
+? What's your credit score? 780
+? What's your current amount of monthly debt? 5000
+? What's your total monthly income? 90000
+? What's your desired loan amount? 15000
+? What's your home value? 120000
+The monthly debt to income ratio is 0.06
+The loan to value ratio is 0.12.
+Found 21 qualifying loans
+? Would you like to save the qualifying loans to file? Yes
+OK. Saving qualified loans to csv file.
+? What is the output path of the qualified loans file qualified_loans.csv
+Writing qualified loan data to csv file...
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   app.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	qualified_loans.csv
+	qualifier/.DS_Store
+	qualifier/filters/.DS_Store
+
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % git commit -m "Rand entire code"
+[main e476ad5] Rand entire code
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	qualified_loans.csv
+	qualifier/.DS_Store
+	qualifier/filters/.DS_Store
+
+nothing added to commit but untracked files present (use "git add" to track)
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % git add qualified_loans.csv
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % git commit -m "added new csv created by code containing qualified loans"
+[main 6eeca2a] added new csv created by code containing qualified loans
+ 1 file changed, 22 insertions(+)
+ create mode 100644 qualified_loans.csv
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % git push
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 968 bytes | 968.00 KiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
+To github.com:heitzo/Loan_Analyzer_Enhancements.git
+   1fe53e2..6eeca2a  main -> main
+(dev) oliviaheitz@olivias-air-2 Loan_Analyzer_Enhancements % 
